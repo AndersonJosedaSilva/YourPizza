@@ -1,0 +1,116 @@
+
+#usu{
+    background-color: transparent;
+    font-weight: bold;
+    color: white;
+}
+
+#usu:focus{
+    background-color: aliceblue;
+    color: black;
+}
+
+#login{
+    background-color: transparent;
+    font-weight: bold;
+    color: white;
+}
+
+#login:focus{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+body{
+    background: url(http://www.oestadoce.com.br/sites/default/files/noticia/vignoli_traz_novidades.jpg)no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: orange;
+    font-weight: bold;
+    
+}
+#h1{
+    padding-left: 5%;
+    font-size: 80px;
+    color: orange;
+    
+}
+#h2{
+    padding-left: 13%;
+    font-size: 80px;
+    color: orange;
+    
+}
+form{
+    padding-left: 50%;
+    padding-top: 0%;
+    margin-top: -80px;
+    font-size: 20px;
+}
+fieldset{
+    height: 400px;
+    width: 97%;
+    margin-top: 6%;
+    color: white;
+    background: linear-gradient(transparent,black);
+    border-color:black;
+    margin-top: 5%;
+
+}
+#log{
+	color: orange;
+	
+}
+
+
+#legendD{
+	margin-top:1%;
+	margin-bottom:-5%;
+    font-size: 50px;
+    background: linear-gradient(transparent,black);
+    color: orange;
+    width: 240px;
+}
+
+#a1{
+    background: linear-gradient(transparent,orange);
+    font-size: 13px;
+    text-align: left;
+    margin-top: 1%;
+    margin-left: 15px;
+    margin-bottom: 13px;
+    
+    color: black;
+    font-weight: bold;
+
+}
+
+#a2{
+    margin-left: 53%;
+    margin-top: 1%;
+}
+
+
+
+a{
+    font-size: 30px;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20%;
+    
+    }
+#div0{
+    
+    margin-top: -1%;
+    background: linear-gradient(transparent,black);
+    padding-bottom: -10px;
+    width:99%;
+    padding-top: 5px;
+}
+
+
+

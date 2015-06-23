@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+     <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>your.pizza.servlets.Login</servlet-class>
+    </servlet>     
+    
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/Login</url-pattern>
+    </servlet-mapping>
+    
+       <servlet>
+        <servlet-name>Usuario</servlet-name>
+        <servlet-class>your.pizza.servlets.Usuario</servlet-class>
+    </servlet>     
+    
+    <servlet-mapping>
+        <servlet-name>Usuario</servlet-name>
+        <url-pattern>/Usuario</url-pattern>
+    </servlet-mapping> 
+    
+           <servlet>
+        <servlet-name>Promocoes</servlet-name>
+        <servlet-class>your.pizza.servlets.Promocoes</servlet-class>
+    </servlet>     
+    
+    <servlet-mapping>
+        <servlet-name>Promocoes</servlet-name>
+        <url-pattern>/Promocoes</url-pattern>
+    </servlet-mapping> 
+    
+    
+    <servlet>
+        <servlet-name>Produto</servlet-name>
+        <servlet-class>your.pizza.servlets.Produto</servlet-class>
+    </servlet>     
+    
+    <servlet-mapping>
+        <servlet-name>Produto</servlet-name>
+        <url-pattern>/Produto</url-pattern>
+    </servlet-mapping> 
+    
+     <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+</web-app>

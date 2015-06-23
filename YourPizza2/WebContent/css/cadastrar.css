@@ -1,0 +1,64 @@
+body{
+    background: url(http://images7.alphacoders.com/328/328730.jpg)no-repeat;
+    background-size: 100% 100%;
+}
+
+fieldset{
+    width: 400px;
+    margin: 40px auto;
+    border: 2px solid black;
+    background: url()no-repeat;
+    background-color: transparent;
+    background-size: 100% 100%;
+}
+[type=text],
+[type=password]{
+    width: 95%;
+    height: 3.5%;
+    border: 2px solid black;
+    outline: none;
+    background-color: transparent;
+}
+
+legend{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: black;
+    font-size: 40px;
+
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+}
+#cad{
+	margin-left: 230px;
+	margin-top: 2%;	
+}
+
+#nome:focus{
+	background-color: white;	
+}
+#senha:focus{
+	background-color: white;	
+}
+#confirmasenha:focus{
+	background-color: white;	
+}
+#func:focus{
+	background-color: white;	
+}
+#endereco:focus{
+	background-color: white;	
+}
+#telefone:focus{
+	background-color: white;	
+}
+#login:focus{
+	background-color: white;	
+}
+
+    

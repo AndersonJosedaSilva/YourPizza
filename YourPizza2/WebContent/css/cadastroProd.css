@@ -1,0 +1,49 @@
+*{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+a{
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 120px;
+    text-decoration: none;
+
+
+}
+#div0{
+    display: inline-block;
+    margin-top: -1%;
+    background: linear-gradient(transparent,black);
+    padding-bottom: 10px;
+    padding-top: 35px;
+    padding-right: 180px;
+    padding-left: 80px;
+}
+
+
+#h1{
+    margin-left: 30px;
+    font-size: 60px;
+    color: orange;
+    
+    
+        
+}
+#h2{
+    margin-left: 80px;
+    font-size: 60px;
+    color: orange;
+}
+
+
+body{
+    background: url(http://www.oestadoce.com.br/sites/default/files/noticia/vignoli_traz_novidades.jpg)no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: orange;
+    font-weight: bold;
+}

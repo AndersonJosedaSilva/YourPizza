@@ -1,0 +1,31 @@
+body{
+    background: url(http://www.oestadoce.com.br/sites/default/files/noticia/vignoli_traz_novidades.jpg)no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: orange;
+    font-weight: bold;
+    
+}
+h1{
+	margin-left: 43%;
+	font-size:60px;
+	
+}
+
+#div0{
+    display: inline-block;
+    margin-top: -1%;
+    background: linear-gradient(transparent,black);
+    padding-bottom: 10px;
+    width:99%;
+    padding-top: 35px;
+}
+
+a{
+	font-size:35px;
+	display:inline-block;
+	color: white;
+	text-decoration: none;
+	margin-left: 250px;
+}

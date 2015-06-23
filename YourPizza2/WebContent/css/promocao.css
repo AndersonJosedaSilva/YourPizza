@@ -1,0 +1,25 @@
+body{
+    background: url(http://joaomattar.com/blog/wp-content/photos/FUNDO_PAPEL_CARTAsmall.jpg)no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+legend{
+    font-size: 50px;
+    margin-left: 2%;
+}
+
+fieldset{
+    padding-bottom: 20%;
+    height: 250px;
+
+}
+
+#dia{
+    font-size: 25px;
+    color: black;
+     
+}
+
+   

@@ -1,0 +1,23 @@
+body{
+	background: url(http://buffetsplash.com.br/wp-content/uploads/2012/01/fundo.png)no-repeat;
+	background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+    
+}
+h1{
+	margin-left: 40%;
+	font-size:60px;
+	
+}
+#ing{
+	font-size:25px;
+	color: black;
+	margin-left: 50px; 
+}
+
+#bot{
+	margin-top:3%;
+	margin-left: 40%;
+}
